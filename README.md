@@ -1,15 +1,17 @@
-# Paulo
-<h1 align="center">👋 Olá, eu sou o Paulo Otávio</h1>
-<h3 align="center">💻 Desenvolvedor em constante evolução 🚀</h3>
+# Olá, eu sou o Paulo! 👋
+
+### 👨‍💻 Estudante de Desenvolvimento de Sistemas
+Atualmente focado em construir aplicações web modernas e scripts de automação. Pretendo cursar **Engenharia de Software** para me aprofundar em arquitetura e sistemas escaláveis.
 
 ---
 
-## 🚀 Sobre mim
-- 🌱 Estudando **JavaScript, Python, HTML e CSS**  
-- 🎯 Focado em aprender e aplicar boas práticas de código  
-- 🤝 Aberto a colaborar em projetos interessantes   
+### 🛠️ No que estou trabalhando agora:
+- 🔭 Atualmente estudando **Lógica Avançada** e **Estrutura de Dados**.
+- 🌱 Aprendendo a integrar **Python com Banco de Dados**.
+- 💬 Pergunte-me sobre: Desenvolvimento Web e Automação simples.
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="left">
