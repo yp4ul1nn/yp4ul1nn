@@ -24,7 +24,6 @@
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yp4ul1nn&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="langs" />
 </p>
 
 ---
