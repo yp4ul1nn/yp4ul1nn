@@ -7,8 +7,7 @@
 ## 🚀 Sobre mim
 - 🌱 Estudando **JavaScript, Python, HTML e CSS**  
 - 🎯 Focado em aprender e aplicar boas práticas de código  
-- 🤝 Aberto a colaborar em projetos interessantes  
-- ☕ Café + Código = ❤️  
+- 🤝 Aberto a colaborar em projetos interessantes   
 
 ---
 
@@ -24,8 +23,8 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yp4ul1nn&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yp4ul1nn&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yp4ulinn&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="langs" />
 </p>
 
 ---
