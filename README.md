@@ -39,10 +39,10 @@ Atualmente focado em construir aplicações web modernas e scripts de automaçã
 
 ## 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/Paulo-otavio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+  <a href="mailto:paulo.otavio2601@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
